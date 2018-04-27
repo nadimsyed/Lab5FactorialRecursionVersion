@@ -1,0 +1,7 @@
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab5RecursionVersion\Lab5RecursionVersion\bin\Debug\Lab5RecursionVersion.exe.config
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab5RecursionVersion\Lab5RecursionVersion\bin\Debug\Lab5RecursionVersion.exe
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab5RecursionVersion\Lab5RecursionVersion\bin\Debug\Lab5RecursionVersion.pdb
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab5RecursionVersion\Lab5RecursionVersion\obj\Debug\Lab5RecursionVersion.csprojResolveAssemblyReference.cache
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab5RecursionVersion\Lab5RecursionVersion\obj\Debug\Lab5RecursionVersion.csproj.CoreCompileInputs.cache
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab5RecursionVersion\Lab5RecursionVersion\obj\Debug\Lab5RecursionVersion.exe
+C:\Users\Grand Circus Student\Desktop\GrandCircusRepository\C#CodeRepository\Lab5RecursionVersion\Lab5RecursionVersion\obj\Debug\Lab5RecursionVersion.pdb
